@@ -1,5 +1,5 @@
-# form-validation
-Formulário de Registro/Cadastro. Desenvolvido em HTML e CSS com validações em JavaScript, utilizando OOP.
+# Formulário de Registro/Cadastro
+Desenvolvido em HTML e CSS com validações em JavaScript, utilizando OOP.
 
 Página do Projeto: https://incredible-gaufre-9a0c07.netlify.app/
 
